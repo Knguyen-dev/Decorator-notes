@@ -10,3 +10,12 @@ Notes about decorators in python and how to use them
 
 - Nesting functions: You can define 
     functions inside other functions. These inner functions are called nested functions
+
+- Credits:
+1. Corey Schafer:
+    - https://youtu.be/FsAPt_9Bf3U?feature=shared
+    - https://youtu.be/KlBPCzcQNU8?feature=shared
+    - https://youtu.be/jCzT9XFZ5bw?feature=shared
+2. Socratica: 
+    - https://youtu.be/WpF6azYAxYg?feature=shared
+    
